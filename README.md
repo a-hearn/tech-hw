@@ -1,2 +1,3 @@
 # tech-hw
 Technical HW 1 - Capstone
+THIS IS DIFFERENT FROM WHAT I TYPED BEFORE
